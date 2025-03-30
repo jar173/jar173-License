@@ -60,6 +60,6 @@ Der Urheber behält sich das Recht vor, die Lizenz zu ändern oder zu widerrufen
 ## 10. Änderungen der Lizenz
 
 Der Urheber behält sich das Recht vor, diese Lizenz jederzeit zu ändern.
-Der Verlauf der Änderungen wird in folgender Datei festgehalten: [Course]([https://www.github.com/jar173](https://github.com/jar173/jar173-License/blob/main/course.md))
+Der Verlauf der Änderungen wird in folgender Datei festgehalten: [Course](https://github.com/jar173/jar173-License/blob/main/course.md)
 Als Benutzer der Software sind Sie verpflichtet, sich regelmäßig über etwaige Änderungen der Lizenz zu informieren. Die fortgesetzte Nutzung der Software nach einer Änderung gilt als Zustimmung zu den neuen Bedingungen.
 
