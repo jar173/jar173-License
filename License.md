@@ -1,6 +1,6 @@
 # jar173 Lizenz
 
-###### Last updated March 30, 2025 by [jar1732](https://www.github.com/jar173)
+###### Last updated March 30, 2025 by [jar173](https://www.github.com/jar173)
 
 ### BEDINGUNGEN FÜR NUTZUNG, VERVIELFÄLTIGUNG UND VERBREITUNG
 
@@ -60,6 +60,6 @@ Der Urheber behält sich das Recht vor, die Lizenz zu ändern oder zu widerrufen
 ## 10. Änderungen der Lizenz
 
 Der Urheber behält sich das Recht vor, diese Lizenz jederzeit zu ändern.
-Der Verlauf der Änderungen wird in folgender Datei festgehalten: [Course](https://github.com/jar173/jar173-License/blob/main/course.md)
+Der Verlauf der Änderungen wird teilweise in folgender Datei festgehalten: [Course](https://github.com/jar173/jar173-License/blob/main/course.md)
 Als Benutzer der Software sind Sie verpflichtet, sich regelmäßig über etwaige Änderungen der Lizenz zu informieren. Die fortgesetzte Nutzung der Software nach einer Änderung gilt als Zustimmung zu den neuen Bedingungen.
 
