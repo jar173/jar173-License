@@ -1,4 +1,4 @@
-Copyright (c) [year] [name]. All rights reserved.
+Copyright (c) 2025 [name]. All rights reserved.
 
 This software is distributed under the jar173 licence.
 The full text of the licence is available at: https://github.com/jar173/jar173-License/blob/main/License.md
